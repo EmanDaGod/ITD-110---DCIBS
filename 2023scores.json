@@ -1,0 +1,290 @@
+{
+    "2023":[
+        {
+            "corps":"Blue Devils",
+            "finals placement":"1st (Gold)",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"Bluecoats",
+            "finals placement":"2nd (Silver)",
+            "finals score":"97.738"
+        },
+        {
+            "corps":"Carolina Crown",
+            "finals placement":"3rd (Bronze)",
+            "finals score":"97.663"
+        },
+        {
+            "corps":"Cadets",
+            "finals placement":"5th",
+            "finals score":"94.313"
+        },
+        {
+            "corps":"Cavaliers",
+            "finals placement":"8th",
+            "finals score":"92.125"
+        },
+        {
+            "corps":"Santa Clara Vanguard",
+            "finals placement":"N/A (Corps Inactive)",
+            "finals score":"N/A"
+        }
+    ],
+    "2022":[
+        {
+            "corps":"Blue Devils",
+            "finals placement":"1st (Gold)",
+            "finals score":"98.750"
+        },
+        {
+            "corps":"Bluecoats",
+            "finals placement":"2nd (Silver)",
+            "finals score":"97.325"
+        },
+        {
+            "corps":"Carolina Crown",
+            "finals placement":"4th",
+            "finals score":"96.350"
+        },
+        {
+            "corps":"Santa Clara Vanguard",
+            "finals placement":"5th",
+            "finals score":"95.000"
+        },
+        {
+            "corps":"Cadets",
+            "finals placement":"6th",
+            "finals score":"92.913"
+        },
+        {
+            "corps":"Cavaliers",
+            "finals placement":"9th",
+            "finals score":"90.600"
+        }
+    ],
+    "2019":[
+        {
+            "corps":"Blue Devils",
+            "finals placement":"1st (Gold)",
+            "finals score":"98.325"
+        },
+        {
+            "corps":"Bluecoats",
+            "finals placement":"2nd (Silver)",
+            "finals score":"98.238"
+        },
+        {
+            "corps":"Santa Clara Vanguard",
+            "finals placement":"3rd (Bronze)",
+            "finals score":"96.600"
+        },
+        {
+            "corps":"Carolina Crown",
+            "finals placement":"4th",
+            "finals score":"96.563"
+        },
+        {
+            "corps":"Cavaliers",
+            "finals placement":"5th",
+            "finals score":"95.400"
+        },
+        {
+            "corps":"Cadets",
+            "finals placement":"9th",
+            "finals score":"89.838"
+        }
+    ],
+    "2018":[
+        {
+            "corps":"Santa Clara Vanguard",
+            "finals placement":"1st (Gold)",
+            "finals score":"98.625"
+        },
+        {
+            "corps":"Blue Devils",
+            "finals placement":"2nd (Silver)",
+            "finals score":"97.350"
+        },
+        {
+            "corps":"Bluecoats",
+            "finals placement":"3rd (Bronze)",
+            "finals score":"96.950"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"N/A (Corps Inactive)",
+            "finals score":"N/A"
+        }
+    ],
+    "2017":[
+        {
+            "corps":"Blue Devils",
+            "finals placement":"1st (Gold)",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"Santa Clara Vanguard",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"Carolina Crown",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"Bluecoats",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"N/A (Corps Inactive)",
+            "finals score":"N/A"
+        }
+    ],
+    "2016":[
+        {
+            "corps":"Bluecoats",
+            "finals placement":"1st (Gold)",
+            "finals score":"97.650"
+        },
+        {
+            "corps":"Blue Devils",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"N/A (Corps Inactive)",
+            "finals score":"N/A"
+        }
+    ],
+    "2015":[
+        {
+            "corps":"Blue Devils",
+            "finals placement":"1st (Gold)",
+            "finals score":"97.650"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"N/A (Corps Inactive)",
+            "finals score":"N/A"
+        }
+    ],
+    "2014":[
+        {
+            "corps":"Blue Devils",
+            "finals placement":"1st (Gold)",
+            "finals score":"99.65"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"N/A (Corps Inactive)",
+            "finals score":"N/A"
+        }
+    ],
+    "2013":[
+        {
+            "corps":"Carolina Crown",
+            "finals placement":"1st (Gold)",
+            "finals score":"98.325"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"Blue Devils",
+            "finals placement":"AAA",
+            "finals score":"98.975"
+        },
+        {
+            "corps":"AAA",
+            "finals placement":"N/A (Corps Inactive)",
+            "finals score":"N/A"
+        }
+    ]
+}
